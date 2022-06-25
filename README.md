@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-<a href="https://telegram.me/STD_DEEPANSHU"><img src="https://img.shields.io/badge/%20Abishnoi-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/STD_DEEPANSHU"><img src="https://img.shields.io/badge/%20Deepanshu-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
